@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\Api\System;
+namespace Duongld\Api\System;
 
 use Illuminate\Routing\Router;
 use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;

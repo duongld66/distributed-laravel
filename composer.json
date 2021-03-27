@@ -1,8 +1,8 @@
 {
-    "name": "ninhtqse/distributed-laravel",
+    "name": "duongld/distributed-laravel",
     "autoload": {
         "psr-4": {
-            "Ninhtqse\\Api\\System\\": "src/"
+            "Duongld\\Api\\System\\": "src/"
         }
     },
     "require": {

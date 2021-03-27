@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\Api\System;
+namespace Duongld\Api\System;
 
 class Utilities
 {

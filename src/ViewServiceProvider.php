@@ -1,10 +1,10 @@
 <?php
 
-namespace Ninhtqse\Api\System;
+namespace Duongld\Api\System;
 
 use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;
 use Illuminate\View\ViewServiceProvider as BaseViewServiceProvider;
-use Ninhtqse\Api\System\Utilities;
+use Duongld\Api\System\Utilities;
 
 class ViewServiceProvider extends BaseViewServiceProvider
 {

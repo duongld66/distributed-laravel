@@ -1,10 +1,10 @@
 <?php
 
-namespace Ninhtqse\Api\System;
+namespace Duongld\Api\System;
 
 use Illuminate\Translation\TranslationServiceProvider as BaseTranslationServiceProvider;
-use Ninhtqse\Api\System\Translation\DistributedFileLoader;
-use Ninhtqse\Api\System\Utilties;
+use Duongld\Api\System\Translation\DistributedFileLoader;
+use Duongld\Api\System\Utilties;
 
 class TranslationServiceProvider extends BaseTranslationServiceProvider
 {

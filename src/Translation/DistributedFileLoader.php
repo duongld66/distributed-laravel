@@ -1,6 +1,6 @@
 <?php
 
-namespace Ninhtqse\Api\System\Translation;
+namespace Duongld\Api\System\Translation;
 
 use Illuminate\Filesystem\Filesystem;
 use Illuminate\Translation\FileLoader;
